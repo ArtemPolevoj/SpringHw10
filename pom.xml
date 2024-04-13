@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>spring</groupId>
-	<artifactId>hw5</artifactId>
+	<artifactId>hw10</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hw5</name>
 	<description>Demo project for Spring Boot</description>

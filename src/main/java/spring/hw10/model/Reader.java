@@ -1,4 +1,4 @@
-package spring.hw5.model;
+package spring.hw10.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

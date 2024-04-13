@@ -1,14 +1,14 @@
-package spring.hw5.servies;
+package spring.hw10.servies;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import spring.hw5.controllers.IssueRequest;
-import spring.hw5.model.Issue;
-import spring.hw5.repository.BookRepository;
-import spring.hw5.repository.IssueRepository;
-import spring.hw5.repository.ReaderRepository;
+import spring.hw10.controllers.IssueRequest;
+import spring.hw10.model.Issue;
+import spring.hw10.repository.BookRepository;
+import spring.hw10.repository.IssueRepository;
+import spring.hw10.repository.ReaderRepository;
 
 import java.time.format.DateTimeFormatter;
 import java.util.NoSuchElementException;

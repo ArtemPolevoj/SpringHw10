@@ -1,12 +1,12 @@
-package spring.hw5.controllers;
+package spring.hw10.controllers;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import spring.hw5.model.Issue;
-import spring.hw5.model.Reader;
-import spring.hw5.servies.ReaderService;
+import spring.hw10.model.Issue;
+import spring.hw10.model.Reader;
+import spring.hw10.servies.ReaderService;
 
 import java.util.List;
 import java.util.NoSuchElementException;

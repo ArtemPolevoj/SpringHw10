@@ -1,4 +1,4 @@
-package spring.hw5;
+package spring.hw10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

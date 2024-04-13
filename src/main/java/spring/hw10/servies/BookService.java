@@ -1,12 +1,11 @@
-package spring.hw5.servies;
+package spring.hw10.servies;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import spring.hw5.model.Book;
-import spring.hw5.repository.BookRepository;
+import spring.hw10.model.Book;
+import spring.hw10.repository.BookRepository;
 
 import java.util.List;
-import java.util.stream.StreamSupport;
 
 
 @Service

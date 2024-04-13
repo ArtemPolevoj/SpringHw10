@@ -1,11 +1,11 @@
-package spring.hw5.controllers;
+package spring.hw10.controllers;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import spring.hw5.model.Book;
-import spring.hw5.servies.BookService;
+import spring.hw10.model.Book;
+import spring.hw10.servies.BookService;
 
 
 import java.util.List;
